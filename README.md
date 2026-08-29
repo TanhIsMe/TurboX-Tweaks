@@ -1,4 +1,4 @@
-# Project Optimize Window                                      
+# TurboX Tweaks - This script classic optimize windows                                     
 <p align="center">
 	<a href="https://github.com/TanhIsMe/TurboX-Tweaks" target="_blank">
    		<img src="https://github.com/TanhIsMe/TurboX-Tweaks/raw/refs/heads/main/files/banner.png">
