@@ -31,15 +31,8 @@ Every tweak has been individually tested on clean Windows 10/11 systems.
 ---
 ## 🔨 Installation Manual
 1. Go to [Releases](https://github.com/TanhIsMe/TurboX-Tweaks/releases/latest) page
-2. Download and run as Administrator `EasyWin.bat`
-
-## ⚡ Quick Launch
-
-Copy and paste this command into **PowerShell (Run as Administrator)** – it downloads and runs the batch file automatically:
-
-```powershell
-irm https://tanhisme.github.io/TurboX-Tweaks/install.ps1 | iex
-```
+2. Download and run as Administrator `TurboX Setup.exe`
+3. Open Window Search, find a application TurboX Tweaks and run as administrator
 
 > [!IMPORTANT]
 > **Use at your own risk.** This script modifies the Windows registry, services and installed apps. If you don't understand what a command does, do not run it.
